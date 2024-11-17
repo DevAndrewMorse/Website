@@ -1,0 +1,103 @@
+body {
+    background-color: black;
+}
+
+h4 {
+    color: white;
+}
+
+h3 {
+    color: #fafafa;
+}
+
+.nav-link i {
+    color: white;
+}
+
+.navbar-custom {
+    background-color: black;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+    transition: color 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #f0f0f0;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+
+.navbar-brand img {
+    width: 55px;
+    height: 40px;
+}
+
+
+.social-icons a {
+    color: #333;
+    /* or another color */
+    margin: 0 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: #007bff;
+    /* highlight color on hover */
+}
+
+.modal-dark {
+    background-color: black;
+    color: #fff;
+}
+
+.modal-dark .modal-header {
+    border-bottom: 1px solid black;
+}
+
+.modal-dark .close {
+    color: #fff;
+}
+
+.card {
+    border-radius: 10px;
+    background-color: #131313;
+}
+
+.custom-card {
+    background-color: #202020;
+    color: #fafafa; /* Optional: Ensure text is readable on dark background */
+}
+  
+  
+
+#photo-grid img {
+    transition: transform 0.3s ease-in-out;
+}
+
+#photo-grid img:hover {
+    transform: scale(1.05);
+    /* Adjust the scale value as needed */
+}
+
+.text-center {
+    text-align: center;
+}
+
+.p-3 {
+    padding: 1rem;
+    /* Adjust padding as needed */
+}
+
+.footer-background {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+
+
+
+
